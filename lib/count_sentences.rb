@@ -3,7 +3,7 @@ require 'pry'
 class String
 
   def sentence?
-    
+    sefl
   end
 
   def question?
